@@ -1,7 +1,7 @@
-##js-firework
+#js-firework
 This is a simple firework in js using the p5.js library
 
-#Info
+##Info
 Author: Aaron Zwickenpflug
 
 version: 1.0
